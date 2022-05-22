@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\bin\Debug\ClassLibrary.dll
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\bin\Debug\ClassLibrary.pdb
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\Dell\Desktop\New folder\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
